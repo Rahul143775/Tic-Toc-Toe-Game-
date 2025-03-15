@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: #3674B5;
+}
+#cell{
+    height: 18vmin;
+    width: 18vmin;
+    border-radius: 1rem;
+    border: 2px solid #578FCA;
+    font-size: 10rem;
+    justify-content: center;
+    align-items: center;
+    color: #A1E3F9;
+    
+}
+.row{
+    display: flex;
+}
+button{
+    width: 60px;
+    height: 30px;
+    margin-top:40px;
+    margin-left: 50px;
+}
+#meg{
+    height: 30px;
+    margin-top:40px;
+    margin-left: 50px;
+    font-size: 5rem;
+    color: #A1E3F9;
+}
